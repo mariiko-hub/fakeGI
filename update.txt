@@ -1,1 +1,1 @@
-url=https://rawcdn.githack.com/user-attachments/files/31245544/pkgi-catalog.zip
+url=http://rawcdn.githack.com/user-attachments/files/31245544/pkgi-catalog.zip
