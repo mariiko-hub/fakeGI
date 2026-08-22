@@ -1,1 +1,1 @@
-catalog_update_url=http://rawcdn.githack.com/user-attachments/files/31245544/pkgi-catalog.zip
+catalog_update_url=http://rawcdn.githack.com/mariiko-hub/fakeGI/96c1465f4185c264f68e5df62d91b46cf44c2775/pkgi.txt
