@@ -1,0 +1,1 @@
+url https://rawcdn.githack.com/mariiko-hub/fakeGI/1edfff5309c659067a7f9c1beeb01b618ed6240c/catalog_update_url.txt
