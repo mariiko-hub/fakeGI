@@ -1,6 +1,0 @@
-url_pkgi_games http://rawcdn.githack.com/mariiko-hub/fakeGI/96c1465f4185c264f68e5df62d91b46cf44c2775/pkgi.txt
-url_pkgi_demos http://rawcdn.githack.com/mariiko-hub/fakeGI/3f05a9a9c081a588bb4fb847128f4d85e33e1c82/pkgi_demos.txt
-url_pkgi_dlcs http://rawcdn.githack.com/mariiko-hub/fakeGI/3f05a9a9c081a588bb4fb847128f4d85e33e1c82/pkgi_dlcs.txt
-url_pkgi_nps_games http://rawcdn.githack.com/mariiko-hub/fakeGI/3f05a9a9c081a588bb4fb847128f4d85e33e1c82/pkgi_nps_games.txt
-url_pkgi_themes http://rawcdn.githack.com/mariiko-hub/fakeGI/3f05a9a9c081a588bb4fb847128f4d85e33e1c82/pkgi_themes.txt
-url_pkgi_update https://rawcdn.githack.com/mariiko-hub/fakeGI/3f05a9a9c081a588bb4fb847128f4d85e33e1c82/pkgi_updates.txt
