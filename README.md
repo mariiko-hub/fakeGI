@@ -18,4 +18,4 @@ But you can also use this to install this emulator pack using this app.
 One more note, just press O to cancel the catalog_update_url and browse thru the pkg library
 
 EmuLoader
-https://ia800709.us.archive.org/zip_dir.php? path=/15/items/emu-loader-cfplusv-1en.zip
+https://ia800709.us.archive.org/zip_dir.php?path=/15/items/emu-loader-cfplusv-1en.zip
